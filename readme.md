@@ -6,7 +6,7 @@ React stepper component with mobile and desktop config.
 
 ## How it works
 
-- The <StepperComponent> acts as a wrapper and the <StepperItemComponent> is a wrapper for each step.
+- The `<StepperComponent>` acts as a wrapper and the `<StepperItemComponent>` is a wrapper for each step.
 
 ## How to use
 
