@@ -2,7 +2,7 @@
 
 React stepper component with mobile and desktop config.
 
-![Stepper example](https://raw.githubusercontent.com/RickyGoacher/react-popup-component-simple/main/assets/images/stepper-component-example.gif)
+![Stepper example](https://raw.githubusercontent.com/RickyGoacher/react-stepper-component-simple/main/assets/images/stepper-component-example.gif)
 
 ## How it works
 
